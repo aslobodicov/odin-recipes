@@ -4,11 +4,11 @@ The following content was used in this project: </p>
 
 <ul>
     <li>Understanding the concept of the HTML boilerplate;</li>
-    <li>Basic tags such as `<p>`, `<strong>`, `<em>`;</li>
-    <li>The correct usage of headings `<h1>`, `<h2>`;</li>
+    <li>Basic tags such as &ltp&gt, &ltstrong&gt and &ltem&gt;</li>
+    <li>The correct usage of headings &lth1&gt and &lth2&gt;</li>
     <li>Ordered and unordered lists;</li>
-    <li>Anchor tag and attributes such as `target` and `rel` to understand security measures;</li>
-    <li>Image tag and attributes such as `alt`, `width`, `height` to learn about accessibility and good code practice;</li>
+    <li>Anchor tag and attributes such as target and rel to understand security measures;</li>
+    <li>Image tag and attributes such as *alt*, width, height to learn about accessibility and good code practice;</li>
     <li>Relative path and navegating directories.</li>
 </ul>
 
